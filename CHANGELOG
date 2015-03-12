@@ -5,6 +5,7 @@ Changelog
 ------------------
 
 - add getitem() method with same api on NodeList and ProxyList
+- fix: inconsistencies when inserting lines around code blocks
 
 0.5.1 (2015-03-11)
 ------------------
